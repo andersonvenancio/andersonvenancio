@@ -4,6 +4,7 @@
 
 - 🔭 Atualmente trabalho como Analista de suporte técnico, mas com algumas atribuições de desenvolvedor Front-end 
 - 🌱 Estudando Front-end e mobile
+- 💻 Atuante na área de tecnologia a mais de 10 anos
 
 
 <div align="center">
