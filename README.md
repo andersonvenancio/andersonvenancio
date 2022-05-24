@@ -2,8 +2,9 @@
 
 
 
-- 🔭 Hoje trabalho como Analista de suporte, mas com algumas atribuições de desenvolvedor Front-end 
-- 🌱 Estudando Front-end e mobile 
+- 🔭 Atualmente trabalho como Analista de suporte técnico, mas com algumas atribuições de desenvolvedor Front-end 
+- 🌱 Estudando Front-end e mobile
+
 
 <div align="center">
   <a href="https://github.com/andersonvenancio">
