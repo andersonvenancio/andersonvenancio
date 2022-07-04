@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Atualmente trabalho como Analista de suporte técnico, mas com algumas atribuições de desenvolvedor Front-end 
+- 🔭 Atualmente trabalho como Analista de suporte técnico, mas possuo também algumas atribuições de desenvolvedor Front-end, tais como desenvolvimento de landing pages e gestão dos sites de uma empresa administradora de planos de saúde. 
 - 🌱 Estudando Front-end e mobile
 - 💻 Atuante na área de tecnologia a mais de 10 anos
 
