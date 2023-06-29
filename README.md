@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Atualmente trabalho como Analista de suporte técnico, mas possuo também algumas atribuições de desenvolvedor Front-end, tais como desenvolvimento de landing pages e gestão dos sites de uma empresa administradora de planos de saúde. 
+- 🔭 Atualmente trabalho como Analista de suporte técnico, mas possuo também algumas atribuições de desenvolvedor FrontEnd, tais como desenvolvimento de landing pages e gestão dos sites de uma empresa administradora de planos de saúde. Além disso faço alguns freelances e projetos pessoais com as tecnologias HTML <-> CSS <-> WORDPRESS <-> JAVASCRIPT <-> REACT JS <-> BOOTSTRAP
 - 🌱 Estudando Front-end e mobile
 - 💻 Atuante na área de tecnologia a mais de 10 anos
 
@@ -17,7 +17,7 @@
   <img align="center" alt="Ander-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ander-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ander-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Ander-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg">
+  <img align="center" alt="Ander-WORDPRESS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg">
  </div>
   
   <div>
