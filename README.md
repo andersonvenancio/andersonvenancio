@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Atualmente trabalho como Analista de suporte técnico, mas possuo também algumas atribuições de desenvolvedor FrontEnd, tais como desenvolvimento de landing pages e gestão dos sites de uma empresa administradora de planos de saúde. Além disso faço alguns freelances e projetos pessoais com as tecnologias HTML <-> CSS <-> WORDPRESS <-> JAVASCRIPT <-> REACT JS <-> BOOTSTRAP
+- 🔭 Atualmente trabalho como Analista de suporte técnico, mas possuo também algumas atribuições de desenvolvedor FrontEnd, tais como desenvolvimento de landing pages e gestão dos sites de uma empresa administradora de planos de saúde. Além disso faço alguns freelances e projetos pessoais com as tecnologias HTML <-> CSS <-> WORDPRESS <-> JAVASCRIPT <-> REACT JS <-> REACT NATIVE <-> BOOTSTRAP <->
 - 🌱 Estudando Front-end e mobile
 - 💻 Atuante na área de tecnologia a mais de 10 anos
 
