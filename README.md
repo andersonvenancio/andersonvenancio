@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Anderson Venancio 👋
 
-🔭 Desenvolvedor Frontend Junior com forte experiência em tecnologia e suporte técnico. Busco novas oportunidades para colocar em prática o conhecimento adquirido com as tecnologias de desenvolvimento de software.
+🔭 Desenvolvedor Frontend Junior. Busco novas oportunidades para colocar em prática o conhecimento adquirido com tecnologias de desenvolvimento Web.
 
 Habilidades e Competências
 
@@ -9,8 +9,9 @@ Experiência com frameworks e bibliotecas, como React JS e React Native
 Conhecimento de design responsivo
 Habilidades de resolução de problemas e depuração
 Capacidade de trabalhar em equipe
+Vasta experiência em configuração, personalização e preparação de ambientes de desnvovlimento em sistemas Windows e Linux.
 
-💻 10 anos de experiência em tecnologia e suporte técnico.
+💻 Mais de 10 anos de experiência em tecnologia, suporte técnico e desenvolvimento web.
 Atuação em empresas de diversos setores, incluindo tecnologia, varejo e serviços
 Experiência em atendimento ao cliente, resolução de problemas e suporte técnico
 
